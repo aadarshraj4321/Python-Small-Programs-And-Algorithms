@@ -7,6 +7,7 @@ class Node:
         self.right = None
 
 
+# Binary Tree Class
 class BinaryTree:
     def isBalanced(self, root):
         pass
